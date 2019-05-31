@@ -1,0 +1,19 @@
+= Getting Started With Spring REST Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+Get all persons
+
+.request
+include::{snippets}/get-persons/http-request.adoc[]
+
+.response
+include::{snippets}/get-persons/http-response.adoc[]
+
+creating a person
+.request
+include::{snippets}/create-a-person/http-request.adoc[]
+
+.response
+include::{snippets}/create-a-person/http-response.adoc[]
+
